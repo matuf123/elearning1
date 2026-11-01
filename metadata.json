@@ -1,0 +1,6 @@
+{
+  "name": "EduSMA - Portal E-Learning SMA Modern",
+  "description": "Aplikasi E-Learning Sekolah Menengah Atas (SMA) modern dan interaktif dengan peran Siswa, Guru, dan Admin. Dilengkapi modul materi, simulasi ujian kuis interaktif, manajemen tugas, dan presensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
